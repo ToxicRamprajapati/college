@@ -1,0 +1,34 @@
+a {
+    margin: 12px;
+    padding: 12px;
+    font-size: 30px;
+    color: rgb(64, 160, 250);
+}
+
+a:hover {
+    color: rgb(227, 31, 253);
+}
+
+h1 {
+    color: rgb(156, 156, 156);
+    font-family: tohoma;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: url();
+    background-color: aqua;
+    text-shadow: 4px 3px rgba(138, 234, 247, 0.945);
+}
+
+h2.varasi {
+    font-size: 20px;
+    color: rgb(89, 88, 90);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    margin: 15px;
+    background-color: rgba(175, 245, 239, 0.925);
+}

@@ -1,0 +1,97 @@
+a {
+    margin: 12px;
+    padding: 12px;
+    font-size: 30px;
+    color: rgb(64, 160, 250);
+    outline: none;
+}
+
+a:hover {
+    color: rgb(227, 31, 253);
+}
+
+.image {
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    background: blur(1px);
+}
+
+.image2 {
+    gap: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+    width: 100%;
+    height: auto;
+    align-items: center;
+
+
+
+}
+
+/*@media(max-width:200px){
+.image,.image2{
+    margin: 10px;
+    padding: auto;
+    width: 350px;
+    height: auto;
+    cursor: auto;
+
+
+}
+*/
+h1 {
+    color: rgb(156, 156, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: url();
+    background-color: aqua;
+    position: sticky;
+    text-shadow: 4px 3px rgba(138, 234, 247, 0.945);
+}
+
+.varasi {
+    font-size: 20px;
+    color: rgb(89, 88, 90);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 4px;
+    background-color: rgba(175, 245, 239, 0.925);
+}
+
+/*h2 {
+    margin: 7px;
+    background-color: rgba(175, 245, 239, 0.925);
+
+}*/
+
+img {
+    margin: 10px;
+    padding: auto;
+    width: 350px;
+    height: auto;
+    cursor: auto;
+
+}
+
+video {
+    margin: 10px;
+    padding: auto;
+    width: 350px;
+    height: auto;
+}

@@ -1,0 +1,68 @@
+h1 {
+    color: rgb(156, 156, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: url();
+    background-color: rgb(5, 255, 255);
+    user-select: none;
+    -webkit-user-select: none;
+    text-shadow: 4px 3px rgba(138, 234, 247, 0.945);
+}
+
+.varasi {
+    font-size: 20px;
+    color: rgb(89, 88, 90);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+h2 {
+    font-size: 20px;
+    margin: 18px;
+    background-color: rgba(175, 245, 239, 0.925);
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+h1.hadig :hover {
+    font-size: 15px;
+    color: rgb(31, 18, 22);
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+body {
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* filter: blur(1px);*/
+}
+
+a {
+    margin: 12px;
+    padding: 12px;
+    font-size: 30px;
+    color: rgb(64, 160, 250);
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+
+a:hover {
+    color: rgb(227, 31, 253);
+}
+
+p {
+    margin: 20px;
+    user-select: none;
+    -webkit-user-select: none;
+    font-size: 14px;
+}

@@ -1,0 +1,62 @@
+h1 {
+    color: rgb(156, 156, 156);
+    font-family: tohoma;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    cursor: url();
+    background-color: aqua;
+    user-select: none;
+    -webkit-user-select: none;
+    text-shadow: 4px 3px rgba(138, 234, 247, 0.945);
+}
+
+a {
+    margin: 12px;
+    padding: 12px;
+    font-size: 30px;
+    color: rgb(64, 160, 250);
+}
+
+a:hover {
+    color: rgb(227, 31, 253);
+}
+
+h2.varasi {
+    font-size: 20px;
+    color: rgb(89, 88, 90);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+h2 {
+    margin: 15px;
+    background-color: rgba(175, 245, 239, 0.925);
+    user-select: none;
+    -webkit-user-select: none;
+
+}
+
+p {
+    margin: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    font-size: 14px;
+}
+
+h4 {
+    margin: 15px;
+    background-color: rgb(200, 211, 211);
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+h3 {
+    margin: 13px;
+    background-color: rgb(196, 255, 255);
+    user-select: none;
+    -webkit-user-select: none;
+}
